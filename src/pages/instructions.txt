@@ -1,0 +1,2 @@
+This folder contains navigation flow of application from one page to another.
+It is supposed to contain files such as HomeScreen.js, LoginPage.js, etc.

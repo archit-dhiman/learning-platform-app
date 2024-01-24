@@ -1,0 +1,3 @@
+This folder contains all the services required for the website.
+Contains all the code for api, data fetching, etc.
+Contains library for mulitple language support sucha as i18n
