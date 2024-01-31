@@ -1,0 +1,3 @@
+Contains code that doesnt belong in any othe file.
+helpers.jsx contains functions that are required in the website/webapp but dont fit the description of any other folder.
+These are small funtions that can be used in multiple places in the website/webapp code.
