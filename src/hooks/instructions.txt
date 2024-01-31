@@ -1,2 +1,0 @@
-This folder stores all custom hooks required in building this website.
-These hooks can be used in any place in the website by accessing them from this single location.
